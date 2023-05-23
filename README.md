@@ -1,4 +1,4 @@
-# Martin Petrov SpringBoot Codding Challenge README
+# Martin Petrov SpringBoot Coding Challenge README
 
 ## Installation
 1. Make sure you have Java 17 on your computer
